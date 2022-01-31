@@ -1,0 +1,6 @@
+a:
+  a1: ${ENV_VAR_A1}
+  a2: Value A2
+b:
+  b1: XXXXXXXX
+  b2: XXXXXXXX
